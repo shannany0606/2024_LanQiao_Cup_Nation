@@ -25,3 +25,10 @@ I:看起来是个数位DP，不太会，交了个暴力
 J:期望DP，更不会了，继续暴力
 
 如果感觉这个项目对您有帮助（如了解了什么库可以用or提供了题面or提供了做题思路），烦请您到右上角点个Star。祝点star的同学蓝桥杯国赛都能冲到国一哈哈。
+
+PS：相关项目还有
+
+[2023年第十四届蓝桥杯全国总决赛 Python A组全国一等奖纪念（省赛国赛题目+考场代码）](https://github.com/shannany0606/2023_Lanqiao_Cup)
+
+[2024年第十五届蓝桥杯Python A组省赛题目+参赛代码](https://github.com/shannany0606/2024_LanQiao_Cup_Province)
+
